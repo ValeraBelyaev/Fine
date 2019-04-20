@@ -1,0 +1,12 @@
+C:\Users\10150320\source\repos\Fine\Fine\bin\Debug\Fine.exe.config
+C:\Users\10150320\source\repos\Fine\Fine\bin\Debug\Fine.exe
+C:\Users\10150320\source\repos\Fine\Fine\bin\Debug\Fine.pdb
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.csprojAssemblyReference.cache
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.Form1.resources
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.Properties.Resources.resources
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.csproj.GenerateResource.cache
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.csproj.CoreCompileInputs.cache
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.exe
+C:\Users\10150320\source\repos\Fine\Fine\obj\Debug\Fine.pdb
+C:\Users\10150320\source\repos\Fine\Fine\bin\Debug\fine.mdf
+C:\Users\10150320\source\repos\Fine\Fine\bin\Debug\fine_log.ldf
